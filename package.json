@@ -1,6 +1,6 @@
 {
   "name": "mules-logger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a logging wrapper for mules apps",
   "main": "main.js",
   "scripts": {

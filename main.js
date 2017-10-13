@@ -3,6 +3,7 @@
 
   module.exports = {
     getLogger: Logger.getLogger,
+    getRequestLogger: Logger.getRequestLogger,
     setLogLevel: Logger.setLogLevel,
     levels: Logger.levels
   };
